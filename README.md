@@ -6,6 +6,8 @@ Currently hosted [here](https://metamask.github.io/test-dapp/).
 
 ## Usage
 
+Run `yarn start` to run the app in local.
+
 If you wish to use this dapp in your e2e tests, install this package and set up a script of e.g. the following form:
 
 ```shell
